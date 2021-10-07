@@ -1,0 +1,22 @@
+body,html {viewheight: 100%;font-family: "Inconsolata", sans-serif}
+
+.bgimg{background-position: center;background-size: cover;background-image:("pic5.jpeg");min-height: 75%;}
+
+
+title{color: #89B5A0;}
+
+text{color: #96B1AD;}
+1) After every change that you make on atom. SAVE!!
+
+2) Change the background colour, to a colour that you like.
+
+3) Change the text colour, to a colour that you like.
+
+4) within the <p></p> tags. include writing of your choice.
+
+5)  within the <title></title> tags. Change the title so that it makes senes for your website.
+
+6)  within all the <h></h> tags. Change the headings so they make sense for your website.
+
+
+.menu{display: none;}
